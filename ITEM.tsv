@@ -178,7 +178,7 @@ ITEM_20150317_000177	This sword shares the same inventor with the 'Primaluce' sw
 ITEM_20150317_000178	Lapis Katzbalger 
 ITEM_20150317_000179	The enhancement of Katzbalger has been developed less than 100 years ago. Thus the crafting recipe for this weapon is unrelated to Ruklyss. 
 ITEM_20150317_000180	Smith Two-Hand Sword 
-ITEM_20150317_000181	Since the Day of Divine Tree, fewer people have been concerned about the instability of magic weapons. 
+ITEM_20150317_000181	Since Medis Diena, fewer people have been concerned about the instability of magic weapons. 
 ITEM_20150317_000182	Klavis Two-Hand Sword 
 ITEM_20150317_000183	This sword can be a trustworthy extension of both your hands. 
 ITEM_20150317_000184	Thresh Two-Hand Sword 
@@ -1800,17 +1800,17 @@ ITEM_20150317_001799	SP Recovery Potion (Small)
 ITEM_20150317_001800	HP +5 Increase Potion 
 ITEM_20150317_001801	HP +10 Increase Potion 
 ITEM_20150317_001802	Movement Speed Increase Potion 
-ITEM_20150317_001803	Increases movement speed by 5 for 180 seconds. Right-click to use. Cooldown 30 seconds. 
+ITEM_20150317_001803	Increases movement speed by 5 for 180 seconds. {nl}Right-click to use. Cooldown 30 seconds. 
 ITEM_20150317_001804	Warp Scroll 
 ITEM_20150317_001805	Allows you to warp to any Goddess Statue. Your current location will be saved at the Goddess Statue. 
 ITEM_20150317_001806	Companion Food 
 ITEM_20150317_001807	Restores Velhider's Stamina by 30. 
 ITEM_20150317_001808	Varnalesa 
-ITEM_20150317_001809	Restores 32~35 SP. Right-click to use. 
+ITEM_20150317_001809	Restores 32~35 SP. {nl}Right-click to use. 
 ITEM_20150317_001810	Valerijonas 
 ITEM_20150317_001811	A flower that can be used as a herb. 
 ITEM_20150317_001812	Ciobrelis 
-ITEM_20150317_001813	A purple colored flower that has regenerative effects when boiled. Restores 8 Stamina.  Right-click to use. 
+ITEM_20150317_001813	A purple colored flower that has regenerative effects when boiled. Restores 8 Stamina.  {nl}Right-click to use. 
 ITEM_20150317_001814	Uosis 
 ITEM_20150317_001815	A herb that grows in sunny fields. 
 ITEM_20150317_001816	Amalas 
@@ -1832,7 +1832,7 @@ ITEM_20150317_001831	Sticky liquid with a sweet taste.
 ITEM_20150317_001832	Nukella 
 ITEM_20150317_001833	Acorn 
 ITEM_20150317_001834	Truffle 
-ITEM_20150317_001835	Restores 350~400 SP. A well-known delicacy among food connoisseurs. Right-click to use. 
+ITEM_20150317_001835	Restores 350~400 SP. A well-known delicacy among food connoisseurs. {nl}Right-click to use. 
 ITEM_20150317_001836	Flower Bun 
 ITEM_20150317_001837	Pine Mushroom 
 ITEM_20150317_001838	Bezoar 
@@ -1850,14 +1850,14 @@ ITEM_20150317_001849	Wisdomberry
 ITEM_20150317_001850	Lemon 
 ITEM_20150317_001851	Aggro Potion 
 ITEM_20150317_001852	Lv120 Klaipeda Parish's Request 
-ITEM_20150317_001853	A scroll that will open a mission portal. Right-click to use. 
+ITEM_20150317_001853	A scroll that will open a mission portal. {nl}Right-click to use. 
 ITEM_20150317_001854	Crystal Mine Mission Warp Stone 
 ITEM_20150317_001855	Lv140 Keepers' Request 
 ITEM_20150317_001856	Lv160 Paladin Followers' Request 
 ITEM_20150317_001857	Seven Valley Mission Warp Stone 
 ITEM_20150317_001858	Thorn Forest Mission Warp Stone 
 ITEM_20150317_001859	Canyon Area Mission Warp Stone 
-ITEM_20150317_001860	Royal Tomb Mission Warp Stone 
+ITEM_20150317_001860	Mausoleum Mission Warp Stone 
 ITEM_20150317_001861	Ruins Mission Warp Stone 
 ITEM_20150317_001862	The Magician's Tower Mission Warp Stone 
 ITEM_20150317_001863	Holy Water 
@@ -1867,11 +1867,11 @@ ITEM_20150317_001866	A white powder that is consumed when priests cast a magic s
 ITEM_20150317_001867	Catacombs Mission Warp Stone 
 ITEM_20150317_001868	Garlic 
 ITEM_20150317_001869	Popolion Meat 
-ITEM_20150317_001870	Restores 40~50 HP. This meat is easily obtainable and can be eaten raw. Right-click to use. 
+ITEM_20150317_001870	Restores 40~50 HP. This meat is easily obtainable and can be eaten raw. {nl}Right-click to use. 
 ITEM_20150317_001871	Klaipeda Warp Scroll 
-ITEM_20150317_001872	Teleports you to Klaipeda. Right-click to use. 
+ITEM_20150317_001872	Teleports you to Klaipeda. {nl}Right-click to use. 
 ITEM_20150317_001873	Coins Box 
-ITEM_20150317_001874	Contains one Coins. Right-click to use. 
+ITEM_20150317_001874	Contains one Coins. {nl}Right-click to use. 
 ITEM_20150317_001875	Cures [Poison] abnormal status. 
 ITEM_20150317_001876	Velhider's Food 
 ITEM_20150317_001877	Velhider's favorite food. Completely restores your companion's HP and restores their stamina by 30. 
@@ -1895,13 +1895,13 @@ ITEM_20150317_001894	Adds 12000 EXP. {nl}Chance of receiving 50% additional EXP.
 ITEM_20150317_001895	LV7 EXP Card  
 ITEM_20150317_001896	Adds 24000 EXP. {nl}Chance of receiving 50% additional EXP. {nl}Right-click to use. 
 ITEM_20150317_001897	HP Increase Potion 
-ITEM_20150317_001898	Permanently increases max HP by 30. Right-click to use. 
+ITEM_20150317_001898	Permanently increases max HP by 30. {nl}Right-click to use. 
 ITEM_20150317_001899	SP Increase Potion 
-ITEM_20150317_001900	Permanently increases max SP by 20. Right-click to use. 
+ITEM_20150317_001900	Permanently increases max SP by 20. {nl}Right-click to use. 
 ITEM_20150317_001901	Stamina Increase Potion 
-ITEM_20150317_001902	Permanently increases max Stamina by 5. Right-click to use. 
+ITEM_20150317_001902	Permanently increases max Stamina by 5. {nl}Right-click to use. 
 ITEM_20150317_001903	Weight Increase Potion 
-ITEM_20150317_001904	Permanently increases max Weight by 100. Right-click to use. 
+ITEM_20150317_001904	Permanently increases max Weight by 100. {nl}Right-click to use. 
 ITEM_20150317_001905	Basic Small HP Potion  
 ITEM_20150317_001906	Basic HP Potion Supply  
 ITEM_20150317_001907	Basic Large HP Potion  
@@ -1916,26 +1916,26 @@ ITEM_20150317_001915	Basic Recovery Potion
 ITEM_20150317_001916	Basic Large Recovery Potion  
 ITEM_20150317_001917	Basic Movement Increase Potion  
 ITEM_20150317_001918	STR Increase Potion 
-ITEM_20150317_001919	Permanently increases Strength by 1. Right-click to use. 
+ITEM_20150317_001919	Permanently increases Strength by 1. {nl}Right-click to use. 
 ITEM_20150317_001920	DEX Increase Potion 
-ITEM_20150317_001921	Permanently increases Dexterity by 1. Right-click to use. 
+ITEM_20150317_001921	Permanently increases Dexterity by 1. {nl}Right-click to use. 
 ITEM_20150317_001922	HP Increase Potion 
-ITEM_20150317_001923	Permanently increases Health by 1. Right-click to use. 
+ITEM_20150317_001923	Permanently increases Health by 1. {nl}Right-click to use. 
 ITEM_20150317_001924	INT Increase Potion 
-ITEM_20150317_001925	Permanently increases Intelligence by 1. Right-click to use. 
+ITEM_20150317_001925	Permanently increases Intelligence by 1. {nl}Right-click to use. 
 ITEM_20150317_001926	SPR Increase Potion 
-ITEM_20150317_001927	Permanently increases Spirit by 1. Right-click to use. 
+ITEM_20150317_001927	Permanently increases Spirit by 1. {nl}Right-click to use. 
 ITEM_20150317_001928	Ability Increase Potion 
-ITEM_20150317_001929	Gives 1 Ability Point. Right-click to use. 
-ITEM_20150317_001930	Permanently increases the max Weight by 50. Right-click to use. 
+ITEM_20150317_001929	Gives 1 Status Point. {nl}Right-click to use. 
+ITEM_20150317_001930	Permanently increases the max Weight by 50. {nl}Right-click to use. 
 ITEM_20150317_001931	Cooldown Time Potion (CBT Test Purposes) 
-ITEM_20150317_001932	Reduce the cooldown duration of all skills by 50% for 10 minutes. Right-click to use. Cooldown 10 minutes. 
+ITEM_20150317_001932	Reduce the cooldown duration of all skills by 50% for 10 minutes. {nl}Right-click to use. Cooldown 10 minutes. 
 ITEM_20150317_001933	Ability Reset Scroll (CBT Test Purposes) 
-ITEM_20150317_001934	Reset the ability points of your character. (CBT Tester Only) 
+ITEM_20150317_001934	Reset the Status Points of your character. (CBT Tester Only) 
 ITEM_20150317_001935	LV8 EXP Card  
-ITEM_20150317_001936	Adds 36000 EXP. Chance of receiving 50% additional EXP. Right-click to use. 
+ITEM_20150317_001936	Adds 36000 EXP. Chance of receiving 50% additional EXP. {nl}Right-click to use. 
 ITEM_20150317_001937	LV9 EXP Card  
-ITEM_20150317_001938	Adds 60000 EXP. Chance of receiving 50% additional EXP. Right-click to use. 
+ITEM_20150317_001938	Adds 60000 EXP. Chance of receiving 50% additional EXP. {nl}Right-click to use. 
 ITEM_20150317_001939	Attack Booster +3 
 ITEM_20150317_001940	Adds +3 damage to a weapon. Can be added and used from the quickslot. 
 ITEM_20150317_001941	Attack Booster +5 
@@ -1951,13 +1951,13 @@ ITEM_20150317_001950	Condensed HP Potion
 ITEM_20150317_001951	Potent Stamina Pill 
 ITEM_20150317_001952	Cooldown Time Potion 
 ITEM_20150317_001953	Monster Specimen Set 
-ITEM_20150317_001954	An old relic found in a well. Right-click to use. 
+ITEM_20150317_001954	An old relic found in a well. {nl}Right-click to use. 
 ITEM_20150317_001955	Ore Collection 
 ITEM_20150317_001956	A collection where you can register your items. You can register an item by right-clicking it. 
 ITEM_20150317_001957	Flower Collection 
 ITEM_20150317_001958	Bone Collection 
 ITEM_20150317_001959	Crystal Collection 
-ITEM_20150317_001960	Royal Tomb Collection 
+ITEM_20150317_001960	Mausoleum Collection 
 ITEM_20150317_001961	Cockatrice Collection 
 ITEM_20150317_001962	Devil Collection 
 ITEM_20150317_001963	Tenet Cathedral Collection 
@@ -2702,7 +2702,7 @@ ITEM_20150317_002701	Obtained from Bearkaras at Underground Mausoleum 4th Distri
 ITEM_20150317_002702	Rexipher's Innocent Evil 
 ITEM_20150317_002703	Obtained from Rexipher at the Underground Mausoleum's 5th District. 
 ITEM_20150317_002704	Aging Relic 
-ITEM_20150317_002705	An old relic found in a well. Right-click to use. 
+ITEM_20150317_002705	An old relic found in a well. {nl}Right-click to use. 
 ITEM_20150317_002706	Charcoal Stone 
 ITEM_20150317_002707	Ore 
 ITEM_20150317_002708	Unicorn Bone 
@@ -2724,7 +2724,7 @@ ITEM_20150317_002723	Bone Amulet
 ITEM_20150317_002724	Crave Amulet 
 ITEM_20150317_002725	Emoticon: Kepa (Joy) 
 ITEM_20150317_002726	Add this emoticon to the list. 
-ITEM_20150317_002727	You can add chat emoticons to quickslots. Right-click to use. 
+ITEM_20150317_002727	You can add chat emoticons to quickslots. {nl}Right-click to use. 
 ITEM_20150317_002728	Emoticon: Kepa (Sadness) 
 ITEM_20150317_002729	Copper Ore 
 ITEM_20150317_002730	Iron Ore 
@@ -2806,7 +2806,7 @@ ITEM_20150317_002805	It teleports you to another Goddess Statue. Your current lo
 ITEM_20150317_002806	Orb of Nostalgia 
 ITEM_20150317_002807	A jewel that instantly teleports you to a saved location. {nl}Cooldown: 15 minutes 
 ITEM_20150317_002808	Klaipeda Warpstone 
-ITEM_20150317_002809	A stone that will transport you to Klaipeda. Right-click to use. Cooldown : 20 minutes 
+ITEM_20150317_002809	A stone that will transport you to Klaipeda. {nl}Right-click to use. Cooldown : 20 minutes 
 ITEM_20150317_002810	Crystal Mine Unsealing Scroll 1 
 ITEM_20150317_002811	Quest Item 
 ITEM_20150317_002812	Crystal Mine Unsealing Scroll 2 
@@ -3128,18 +3128,18 @@ ITEM_20150317_003127	An item that proves one's ability to the Sword Master. It's
 ITEM_20150317_003128	Torn Bat Wings 
 ITEM_20150317_003129	Green Ointment 
 ITEM_20150317_003130	A Vubbe ointment that is used to treat their injured. It's not possible to use it as is. 
-ITEM_20150317_003131	Royal Tomb Guardian Power Source 
+ITEM_20150317_003131	Mausoleum Guardian Power Source 
 ITEM_20150317_003132	A power source used by the Guardian for movement. 
 ITEM_20150317_003133	Royal Tombs Magic Source 
 ITEM_20150317_003134	The source of the magic that encircles the Royal Tombs. 
-ITEM_20150317_003135	Broken Slate of the Royal Tomb 
+ITEM_20150317_003135	Broken Slate of the Mausoleum 
 ITEM_20150317_003136	A slate that ordered the Guardians to attack evil things. They are attacking everyone because it is broken. 
 ITEM_20150317_003137	Burning Stone 
 ITEM_20150317_003138	A stone that lights stone lanterns. Although it is burning, it isn't very hot. 
 ITEM_20150317_003139	Active Stone 
 ITEM_20150317_003140	Overusing the inhibitor can cause it to overheat and break. 
 ITEM_20150317_003141	Blazing Magic Circle 
-ITEM_20150317_003142	A Magic Circle that shows the locations of the Royal Tomb's Guardians. 
+ITEM_20150317_003142	A Magic Circle that shows the locations of the Mausoleum's Guardians. 
 ITEM_20150317_003143	Wheelen Token 
 ITEM_20150317_003144	A token of Wheelens. Collecting them gives the power to defeat enemies. 
 ITEM_20150317_003145	Brother's Diary 
@@ -3203,7 +3203,7 @@ ITEM_20150317_003202	Lizardman Blood is used in experiments conducted by necroma
 ITEM_20150317_003203	Soul Jar 
 ITEM_20150317_003204	A soul jar given by the necromancer Drasyus. It will inhale monsters who are on the verge of death. 
 ITEM_20150317_003205	First Clue of the Great King 
-ITEM_20150317_003206	A clue to undo the seal at the entrance of Royal Tomb. 
+ITEM_20150317_003206	A clue to undo the seal at the entrance of Mausoleum. 
 ITEM_20150317_003207	Second Clue of the Great King 
 ITEM_20150317_003208	Third Clue of the Great King 
 ITEM_20150317_003209	Fourth Clue of the Great King 
@@ -3452,8 +3452,8 @@ ITEM_20150317_003451	A record of relics copied as dictated by Kepact. Only the s
 ITEM_20150317_003452	Memorial Rubbings 
 ITEM_20150317_003453	Rubbings requested by the epigraphist Smith 
 ITEM_20150317_003454	A torn letter found from a dead body. Let's find a place to place the relics. 
-ITEM_20150317_003455	Lethal Move of Zibeck 
-ITEM_20150317_003456	A scroll contains the lethal move of legendary thief Zibeck. Once used, it gives you 1 stat point.. 
+ITEM_20150317_003455	Zubeck's Secret Moves
+ITEM_20150317_003456	A scroll describing the secret moves of the legendary theif, Zubeck. Grants 1 Stat Point when used.
 ITEM_20150317_003457	Jewel of Prominence 
 ITEM_20150317_003458	Gem containing an aura of fire. It will be helpful to the Goddess Gabija. 
 ITEM_20150317_003459	Languid Herb 
@@ -3663,13 +3663,13 @@ ITEM_20150317_003662	Chunks of Meat that can easily be obtained from Monsters. B
 ITEM_20150317_003663	 
 ITEM_20150317_003664	 
 ITEM_20150317_003665	Soft Wooden Periderm 
-ITEM_20150317_003666	The inner layer of bark dug out from a tree on the Way of Big Starving Demon. Don't eat too much of it. 
+ITEM_20150317_003666	The inner layer of bark dug out from a tree on the Starving Demon's Road. Don't eat too much of it. 
 ITEM_20150317_003667	Small Music Box 
 ITEM_20150317_003668	An item exchanged between lovers as a symbol of their love. A cute music box that fits into a small pouch. 
 ITEM_20150317_003669	Monster Meat 
 ITEM_20150317_003670	Meat peeled off during the hunting of monsters. The terrible smell alone makes it hard to eat. 
 ITEM_20150317_003671	Asellu Leaf Bud 
-ITEM_20150317_003672	The leaf bud of an Asellu grown on the Way of Big Starving Demon. It has many practical uses in crafting and in medicine. 
+ITEM_20150317_003672	The leaf bud of an Asellu grown on the Starving Demon's Road. It has many practical uses in crafting and in medicine. 
 ITEM_20150317_003673	Food Scraps 
 ITEM_20150317_003674	Unidentifiable food scraps. Can be used as monster bait. When a monster comes into sight, you can throw it by pressing the V key. 
 ITEM_20150317_003675	 
@@ -3743,13 +3743,13 @@ ITEM_20150317_003742	Relic of Salvation
 ITEM_20150317_003743	A round jewel. Required to find Mayburn's key. 
 ITEM_20150317_003744	Mayburn's First key 
 ITEM_20150317_003745	Guard's Keepsake 
-ITEM_20150317_003746	Relics of the guards that have been petrified by the petrified frost in the petrified city Susanhan marketplace 
+ITEM_20150317_003746	Relics of the guards that have been petrified by the Stone Frost in the petrified city Susanhan marketplace 
 ITEM_20150317_003747	Bag of Farming Tools 
 ITEM_20150317_003748	Backpack filled with tools necessary to start a farm. 
 ITEM_20150317_003749	Bee Tree Branch 
-ITEM_20150317_003750	A branch of a bee tree containing the power of the Goddess Austeya 
+ITEM_20150317_003750	A branch of a bee tree containing the power of the Goddess Austeja 
 ITEM_20150317_003751	Ashes of Incinerated Demon 
-ITEM_20150317_003752	The ashes of a Demon incinerated by Goddess Austeya's power 
+ITEM_20150317_003752	The ashes of a Demon incinerated by Goddess Austeja's power 
 ITEM_20150317_003753	Beads of Residue 
 ITEM_20150317_003754	 
 ITEM_20150317_003755	Oak Stem 
@@ -3814,7 +3814,7 @@ ITEM_20150317_003813	Documents related to the story of Naktis and the Asmodians
 ITEM_20150317_003814	Body of Priest 
 ITEM_20150317_003815	Body of Bishop 
 ITEM_20150317_003816	Tasty Candy Ball 
-ITEM_20150317_003817	A tasty candy ball made for the workers at the petrified city in Kalis. 
+ITEM_20150317_003817	A tasty candy ball made for the workers at the petrified city in Kaliss. 
 ITEM_20150317_003818	Guard's Memento 
 ITEM_20150317_003819	Memento of a soldier who died to the petrifying frost.  
 ITEM_20150317_003820	Elixir Ingredient 
@@ -3860,7 +3860,7 @@ ITEM_20150317_003859	Casts Ice Wall when used.
 ITEM_20150317_003860	Sparkling Stone 
 ITEM_20150317_003861	Inside it might contain a Silk Token! 
 ITEM_20150317_003862	Stolen Supplies 
-ITEM_20150317_003863	Military supplies stolen from the Kingdom Army's guards by Dico Doguldan. 
+ITEM_20150317_003863	Military supplies stolen from the Royal Army's guards by Dico Doguldan. 
 ITEM_20150317_003864	Petrified Cargo Rubbings 
 ITEM_20150317_003865	Rubbing of the petrified book on Ruklys Street 
 ITEM_20150317_003866	Knight Supplies 
@@ -3877,9 +3877,9 @@ ITEM_20150317_003876	A dangerous bomb that will explode soon after being thrown.
 ITEM_20150317_003877	Boulder Explosives 
 ITEM_20150317_003878	Bomb with a high power output. It is extremely loud. 
 ITEM_20150317_003879	Central Propaganda 
-ITEM_20150317_003880	Advertisement fliers distributed by the Kingdom Army 
+ITEM_20150317_003880	Advertisement fliers distributed by the Royal Army 
 ITEM_20150317_003881	Frosty Core 
-ITEM_20150317_003882	Research on the petrification frost requested by the Kalis Knightage 
+ITEM_20150317_003882	Research on the petrification frost requested by the Kaliss Knightage 
 ITEM_20150317_003883	Recruitment Notice 
 ITEM_20150317_003884	A lengthy advertisement noting the Kingdom's honor and pride 
 ITEM_20150317_003885	Priest's Research 
@@ -3979,7 +3979,7 @@ ITEM_20150323_003978	A stone that the Fletcher Master requested in exchange for 
 ITEM_20150323_003979	 
 ITEM_20150323_003980	A canine that the Monk Master requested as proof of your commitment. 
 ITEM_20150323_003981	Monster's toenail that can only be found from the petrified city of Verkti Square. 
-ITEM_20150323_003982	The goods stolen by the Dico Robbers in the petrified city of Verkti Square. In order to make these like the Verkti Square goods, they have been exposed to the petrified frost. 
+ITEM_20150323_003982	The goods stolen by the Dico Robbers in the petrified city of Verkti Square. In order to make these like the Verkti Square goods, they have been exposed to the Stone Frost. 
 ITEM_20150323_003983	Water bottle engraved with a password to find the robber Benjaminas hidden among the guards of the petrified city of Verkti Square. 
 ITEM_20150323_003984	A fragrant stone powder obtained from monsters in the petrified city of Verkti Square. 
 ITEM_20150323_003985	 
@@ -4911,9 +4911,9 @@ ITEM_20150428_004910	Restores HP every 2 seconds. {nl}800 HP is restored over 15
 ITEM_20150428_004911	Concentrated SP Potion LV1 
 ITEM_20150428_004912	Restores SP every 2 seconds. {nl}640 SP is restored over 15 seconds. {nl}Right-click to use. Cooldown 30 seconds. 
 ITEM_20150428_004913	Concentrated Stamina Pills LV1 
-ITEM_20150428_004914	Restores 50 stamina. Right-click to use. Cooldown 30 seconds. 
+ITEM_20150428_004914	Restores 50 stamina. {nl}Right-click to use. Cooldown 30 seconds. 
 ITEM_20150428_004915	Concentrated Movement Speed Increase Potion LV1 
-ITEM_20150428_004916	Increases Movement Speed by 5 for 180 seconds. Right-click to use. Cooldown 30 seconds. 
+ITEM_20150428_004916	Increases Movement Speed by 5 for 180 seconds. {nl}Right-click to use. Cooldown 30 seconds. 
 ITEM_20150428_004917	Concentrated HP Potion LV2 
 ITEM_20150428_004918	Restores HP every 2 seconds. {nl}800 HP is restored over 15 seconds. {nl}Right-click to use. Cooldown 45 seconds. 
 ITEM_20150428_004919	Concentrated HP Potion LV3 
@@ -5065,9 +5065,9 @@ ITEM_20150428_005064	The second revelation found in the Tenet Cathedral. Readabl
 ITEM_20150428_005065	Lump of Kepo Meat 
 ITEM_20150428_005066	Meat Loaf that can be easily obtained from Kepo. However, you can't eat it as is. 
 ITEM_20150428_005067	The third revelation found in the Thorn Forest. Readable. 
-ITEM_20150428_005068	The fourth revelation found in the Royal Tomb. Readable. 
+ITEM_20150428_005068	The fourth revelation found in the Mausoleum. Readable. 
 ITEM_20150428_005069	The sixth revelation found in the Cathedral. Readable. 
-ITEM_20150428_005070	There are claims that the voice of the King can be heard at the Royal Tomb Chapel. 
+ITEM_20150428_005070	There are claims that the voice of the King can be heard at the Mausoleum Chapel. 
 ITEM_20150428_005071	Experimental soul reagents that Grachius gave to you. 
 ITEM_20150428_005072	Experimental Reagent 
 ITEM_20150428_005073	Said to reveal monsters that have killed pilgrims under the Curse of Rage when sprayed on them. However, this is still experimental. 
@@ -5135,7 +5135,7 @@ ITEM_20150714_005134	Roxona Plate Boots
 ITEM_20150714_005135	Roxona Plate Pants 
 ITEM_20150714_005136	Roxona Plate Armor 
 ITEM_20150714_005137	GM Boots 
-ITEM_20150714_005138	 
+ITEM_20150714_005138	Crafted to deal with extreme cold. Reflects current master's peronality and fouces on practicality.
 ITEM_20150714_005139	Enchanter Costume 
 ITEM_20150714_005140	Pickaxe Set 
 ITEM_20150714_005141	Card Set 
@@ -5164,7 +5164,7 @@ ITEM_20150714_005163	Add 202718 EXP and 156092 Class EXP. {nl}Chance of receivin
 ITEM_20150714_005164	LV13 EXP Card 
 ITEM_20150714_005165	Add 448276 EXP and 345172 Class EXP. {nl}Chance of receiving additional EXP. {nl}Right-click to use. 
 ITEM_20150714_005166	Repair Potion 
-ITEM_20150714_005167	It helps to restore the equipment durability. Right-click to use. 
+ITEM_20150714_005167	It helps to restore the equipment durability. {nl}Right-click to use. 
 ITEM_20150714_005168	Restores HP every 2 seconds. {nl}1920 HP is restored over 15 seconds. {nl}Right-click to use. Cooldown 45 seconds. 
 ITEM_20150714_005169	Restores HP every 2 seconds. {nl}2080 HP is restored over 15 seconds. {nl}Right-click to use. Cooldown 45 seconds. 
 ITEM_20150714_005170	Restores HP every 2 seconds. {nl}2240 HP is restored over 15 seconds. {nl}Right-click to use. Cooldown 45 seconds. 
@@ -5282,7 +5282,7 @@ ITEM_20150714_005281
 ITEM_20150714_005282	 
 ITEM_20150714_005283	 
 ITEM_20150714_005284	A record written by Hones and Liars's teacher. Say that it contains very important information. 
-ITEM_20150714_005285	Carcashu Seeds 	Flower Alcohol of Doyor
+ITEM_20150714_005285	Carcashu Seeds 
 ITEM_20150714_005286	Horn of Glee piglets 
 ITEM_20150714_005287	Varb Hard Shell 
 ITEM_20150714_005288	Zinutekases Strong Horn 
@@ -5294,7 +5294,7 @@ ITEM_20150714_005293	Scent Stone Powder
 ITEM_20150714_005294	condensed fury of pilgrims. 
 ITEM_20150714_005295	Petrified the advanced team's relics 
 ITEM_20150714_005296	Tasty Tablets 
-ITEM_20150714_005297	A tasty candy ball made for the workers at the petrifed city in Kalis 
+ITEM_20150714_005297	A tasty candy ball made for the workers at the petrifed city in Kaliss 
 ITEM_20150714_005298	Darkness Crystal 
 ITEM_20150714_005299	A orbe that holds the aura 
 ITEM_20150714_005300	A beed that can collect the aura. It can be taken out and put depending on use. 
@@ -5331,8 +5331,8 @@ ITEM_20150714_005330	A powerful bomb that can make a big fuss after a certain ti
 ITEM_20150714_005331	Sticky Fluids 
 ITEM_20150714_005332	Processed Bomb 
 ITEM_20150714_005333	Hardened Explosives 
-ITEM_20150714_005334	Kingdom Army Propaganda 
-ITEM_20150714_005335	A propaganda to encourage the surrender sprayed by Kingdom army when the rebellion, 600 years ago 
+ITEM_20150714_005334	Royal Army Propaganda 
+ITEM_20150714_005335	A propaganda to encourage the surrender sprayed by Royal Army when the rebellion, 600 years ago 
 ITEM_20150714_005336	part of the soul of torn monarch Houberg. 
 ITEM_20150714_005337	Houberg's soul divided itself in order to escape. 
 ITEM_20150714_005338	the ground of the fort built at the time, was hustle and explosives used. Complaints can be easily attaching to burst. 
@@ -5344,7 +5344,7 @@ ITEM_20150714_005343	be cared wins this thing strong full-flavored me up monster
 ITEM_20150714_005344	Damaged Artifacts 
 ITEM_20150714_005345	Digested, severely Damaged Artifacts. They can only barely be recognized by their shape. 
 ITEM_20150714_005346	Silt Decision 
-ITEM_20150714_005347	decisions that are found in the petrified monster prolonged exposure to frost. When processing occurs on the petrified frost immunity for a while. 
+ITEM_20150714_005347	decisions that are found in the petrified monster prolonged exposure to frost. When processing occurs on the Stone Frost immunity for a while. 
 ITEM_20150714_005348	Horsepower Catalyst 
 ITEM_20150714_005349	horsepower catalyst that can be obtained from monsters exposed to steam. It can be reacted in the vapor horsepower. 
 ITEM_20150714_005350	Pas-de-warp order to give you the future master. Sanctuary is available only when you experience problems do not mean excessive hoarding. 
@@ -5458,8 +5458,8 @@ ITEM_20150714_005457	Frozen Soul Fragment
 ITEM_20150714_005458	A fragment of a monster's soul, solidified in a frosty crystal. 
 ITEM_20150714_005459	Crystal of Pure Frost 
 ITEM_20150714_005460	An ingredient needed for the Cryomancer Master's test. 
-ITEM_20150714_005461	Zebek's Orb 
-ITEM_20150714_005462	An orb made by Zebek to help him find his hidden goods. 
+ITEM_20150714_005461	Zubeck's Orb 
+ITEM_20150714_005462	An orb made by Zubeck used to easily find his secret stash.
 ITEM_20150714_005463	Goddess Austeja's Writings 
 ITEM_20150714_005464	A script needed for repairing the sealed tower in the Uskis Arable Land. 
 ITEM_20150714_005465	Bomb Weed 
@@ -5513,20 +5513,20 @@ ITEM_20150714_005512	Deodorizing Potion
 ITEM_20150714_005513	A strong potion used for removing odors. It has an antiseptic scent to it. 
 ITEM_20150714_005514	Tilla Monastery Scriptures 
 ITEM_20150714_005515	Scriptures that were scattered by rampaging monsters. Bring them to Mohaim. 
-ITEM_20150717_005516	
-ITEM_20150717_005517	
+ITEM_20150717_005516	It's as if the powerful blade shows its user the way of the sword.
+ITEM_20150717_005517	The true power of this blade is its ability to cleave everything between you and your enemy.
 ITEM_20150717_005518	
-ITEM_20150717_005519	
-ITEM_20150717_005520	
+ITEM_20150717_005519	The souls of the swordsmen fighting to death with sword in hand is reflected in this blade.
+ITEM_20150717_005520	The pommel can be used to stab as well but there's no need to try it. 
 ITEM_20150717_005521	
 ITEM_20150717_005522	
 ITEM_20150717_005523	
-ITEM_20150717_005524	
-ITEM_20150717_005525	
-ITEM_20150717_005526	
+ITEM_20150717_005524	- Bash Skill Level +10
+ITEM_20150717_005525	- Repair Fee increased by 100%
+ITEM_20150717_005526	- 2% chance to deal 600% increased damage
 ITEM_20150717_005527	
 ITEM_20150717_005528	
-ITEM_20150717_005529	
+ITEM_20150717_005529	- All Swordsmen Skill Levels increased by +2
 ITEM_20150717_005530	
 ITEM_20150717_005531	
 ITEM_20150717_005532	
@@ -5539,7 +5539,7 @@ ITEM_20150717_005538
 ITEM_20150717_005539	
 ITEM_20150717_005540	
 ITEM_20150717_005541	
-ITEM_20150717_005542	
+ITEM_20150717_005542	- After receiving magic damage, 2% chance to increase Magic Defense for 15 seconds
 ITEM_20150717_005543	
 ITEM_20150717_005544	
 ITEM_20150717_005545	
@@ -5551,12 +5551,12 @@ ITEM_20150717_005550
 ITEM_20150717_005551	
 ITEM_20150717_005552	
 ITEM_20150717_005553	
-ITEM_20150717_005554	
-ITEM_20150717_005555	
+ITEM_20150717_005554	- All Cryomancer Skill Levels increased by +1
+ITEM_20150717_005555	- Earthquake Skill Levels increased by +3
 ITEM_20150717_005556	
 ITEM_20150717_005557	
-ITEM_20150717_005558	
-ITEM_20150717_005559	
+ITEM_20150717_005558	- Basic Attacks have 1% chance to decrease Magic Defense and increase Physical Defense for 30 seconds
+ITEM_20150717_005559	- Basic Attacks have 2% chance to ignite the target for 10 seconds
 ITEM_20150717_005560	
 ITEM_20150717_005561	
 ITEM_20150717_005562	
@@ -5567,14 +5567,14 @@ ITEM_20150717_005566
 ITEM_20150717_005567	
 ITEM_20150717_005568	
 ITEM_20150717_005569	
-ITEM_20150717_005570	
-ITEM_20150717_005571	
+ITEM_20150717_005570	- All Hunter Skill Levels increased by +2
+ITEM_20150717_005571	- Basic Attacks have 2% chance to poison the target for 20 seconds
 ITEM_20150717_005572	
 ITEM_20150717_005573	
-ITEM_20150717_005574	
+ITEM_20150717_005574	- 100% Critical chance to Beast types{nl} - 25% decreased damage to non-Beast types
 ITEM_20150717_005575	
 ITEM_20150717_005576	
-ITEM_20150717_005577	
+ITEM_20150717_005577	Fixed Arrow
 ITEM_20150717_005578	
 ITEM_20150717_005579	
 ITEM_20150717_005580	
@@ -5583,13 +5583,13 @@ ITEM_20150717_005582
 ITEM_20150717_005583	
 ITEM_20150717_005584	
 ITEM_20150717_005585	
-ITEM_20150717_005586	
-ITEM_20150717_005587	
+ITEM_20150717_005586	- All Quarrelshooter Skill Levels increased by +2
+ITEM_20150717_005587	- Backstep Skill Level increased by +3
 ITEM_20150717_005588	
 ITEM_20150717_005589	
 ITEM_20150717_005590	
 ITEM_20150717_005591	
-ITEM_20150717_005592	
+ITEM_20150717_005592	There are traces of it being used for other purposes. But even ordinary equipments can show Goddess' divinity. 
 ITEM_20150717_005593	
 ITEM_20150717_005594	
 ITEM_20150717_005595	
@@ -5598,10 +5598,10 @@ ITEM_20150717_005597
 ITEM_20150717_005598	
 ITEM_20150717_005599	
 ITEM_20150717_005600	
-ITEM_20150717_005601	
+ITEM_20150717_005601	- All Monk Skill Levels increased by +2
 ITEM_20150717_005602	
 ITEM_20150717_005603	
-ITEM_20150717_005604	
+ITEM_20150717_005604	- Out of Body adds Spirit to Basic Attack as bonus damage 
 ITEM_20150717_005605	
 ITEM_20150717_005606	
 ITEM_20150717_005607	It is powerful against Mutant type monsters but no ones why.
@@ -5620,8 +5620,8 @@ ITEM_20150717_005619
 ITEM_20150717_005620	
 ITEM_20150717_005621	
 ITEM_20150717_005622	
-ITEM_20150717_005623	
-ITEM_20150717_005624	
+ITEM_20150717_005623	- All Hoplite Skill Levels increased by +2
+ITEM_20150717_005624	Javelin Skill Damage increased by 100%.
 ITEM_20150717_005625	
 ITEM_20150717_005626	
 ITEM_20150717_005627	
@@ -5638,9 +5638,9 @@ ITEM_20150717_005637
 ITEM_20150717_005638	
 ITEM_20150717_005639	
 ITEM_20150717_005640	
-ITEM_20150717_005641	
+ITEM_20150717_005641	Ice Blast Skill Level +3.
 ITEM_20150717_005642	
-ITEM_20150717_005643	
+ITEM_20150717_005643	Black Staff
 ITEM_20150717_005644	
 ITEM_20150717_005645	
 ITEM_20150717_005646	
@@ -5648,10 +5648,10 @@ ITEM_20150717_005647
 ITEM_20150717_005648	
 ITEM_20150717_005649	
 ITEM_20150717_005650	
-ITEM_20150717_005651	
+ITEM_20150717_005651	Handgun
 ITEM_20150717_005652	
 ITEM_20150717_005653	
-ITEM_20150717_005654	
+ITEM_20150717_005654	Even just a century ago, this was used only in the southern region. It is becoming more common in other areas nowadays. 
 ITEM_20150717_005655	
 ITEM_20150717_005656	
 ITEM_20150717_005657	
@@ -5681,7 +5681,7 @@ ITEM_20150717_005680
 ITEM_20150717_005681	Its name is said to be taken from a famous monster in the past can't be confirmed unless using the Goddess Library. 
 ITEM_20150717_005682	
 ITEM_20150717_005683	Heavier and weaker than expected but its enchantment with power of mummies that are different from the undead helps the wearer.
-ITEM_20150717_005684	
+ITEM_20150717_005684	Beyo Boots
 ITEM_20150717_005685	
 ITEM_20150717_005686	
 ITEM_20150717_005687	
@@ -5689,11 +5689,11 @@ ITEM_20150717_005688
 ITEM_20150717_005689	
 ITEM_20150717_005690	
 ITEM_20150717_005691	Rumor has it that Mayvern made this for any of his disciple. But in reality none of his disciples was relate to it. 
-ITEM_20150717_005692	
-ITEM_20150717_005693	
-ITEM_20150717_005694	
-ITEM_20150717_005695	
-ITEM_20150717_005696	
+ITEM_20150717_005692	There have been endless tries to enhance weapons with the Goddess' divinity. That's how much will of people this item contains. 
+ITEM_20150717_005693	There have been endless tries to enhance weapons with the Goddess' divinity. It was not very successful but it wasn't a failure either. 
+ITEM_20150717_005694	There have been endless tries to enhance weapons with the Goddess' divinity. The most preferred Goddess is Goddess Zemyna and so is this item. 
+ITEM_20150717_005695	There have been endless tries to enhance weapons with the Goddess' divinity. The grace of Goddess is bet
+ITEM_20150717_005696	Goddess' power on item differs on the type of material even if the item use the same names. It refects the ability and personality of the crafter. 
 ITEM_20150717_005697	
 ITEM_20150717_005698	
 ITEM_20150717_005699	
@@ -5724,8 +5724,8 @@ ITEM_20150717_005723
 ITEM_20150717_005724	
 ITEM_20150717_005725	
 ITEM_20150717_005726	
-ITEM_20150717_005727	
-ITEM_20150717_005728	
+ITEM_20150717_005727	People may not know about it but the reason why they can get this for a cheap price is because of the plans and foresight of Goddess Laima. 
+ITEM_20150717_005728	No one knows how Jukopus give this weapon its ablities. Winterspoon family seems to know but do not share it. 
 ITEM_20150717_005729	The demon lord Mirtis said that before he used the Bubbes, Bubbes carried no equipment with magical power in them.
 ITEM_20150717_005730	
 ITEM_20150717_005731	
@@ -5735,7 +5735,7 @@ ITEM_20150717_005734
 ITEM_20150717_005735	
 ITEM_20150717_005736	
 ITEM_20150717_005737	
-ITEM_20150717_005738	
+ITEM_20150717_005738	Made by Mayvern who wished to help his disciples as a priest. It helps you reach a higher level of faith after trials and ordeals. 
 ITEM_20150717_005739	
 ITEM_20150717_005740	
 ITEM_20150717_005741	
@@ -5767,12 +5767,12 @@ ITEM_20150717_005766
 ITEM_20150717_005767	Its name reflects that the item is easy to get, not that the item is shabby. 
 ITEM_20150717_005768	
 ITEM_20150717_005769	Some avoid it for the source of its power but such thoughts are considered a luxury afte Medis Diena.
-ITEM_20150717_005770	
-ITEM_20150717_005771	
-ITEM_20150717_005772	
-ITEM_20150717_005773	
-ITEM_20150717_005774	Place the item on Anvil and hit it to upgrade its abilities. You can buy it from Item Merchant. Right-click to use. 
-ITEM_20150717_005775	
+ITEM_20150717_005770	Lapasape Mushroom
+ITEM_20150717_005771	Lapasape is a mushroom that grows on bodies. It smells very foul. It can be obtained from Lapasapes.
+ITEM_20150717_005772	Party Quest Reward Chest
+ITEM_20150717_005773	Obtain a random reward. {nl}Right-click to use. 
+ITEM_20150717_005774	Place the item on Anvil and hit it to upgrade its abilities. You can buy it from Item Merchant. {nl}Right-click to use. 
+ITEM_20150717_005775	Fire Lord Card
 ITEM_20150717_005776	
 ITEM_20150717_005777	
 ITEM_20150717_005778	TerraNymph decoration 
@@ -5784,15 +5784,15 @@ ITEM_20150717_005783
 ITEM_20150717_005784	Minos Bone
 ITEM_20150717_005785	
 ITEM_20150717_005786	
-ITEM_20150717_005787	
-ITEM_20150717_005788	
+ITEM_20150717_005787  Goblin Talisman	
+ITEM_20150717_005788	It is unknown what these talismans mean to the Goblins but they definitely do not have any effects. Obtained from Goblins.
 ITEM_20150717_005789	
-ITEM_20150717_005790	
-ITEM_20150717_005791	
+ITEM_20150717_005790  Ruby
+ITEM_20150717_005791	A rare, bright red gem.
 ITEM_20150717_005792	
 ITEM_20150717_005793	
 ITEM_20150717_005794	
-ITEM_20150717_005795	
+ITEM_20150717_005795	Cough Medicine
 ITEM_20150717_005796	
 ITEM_20150717_005797	Velheider Exchange Ticket
 ITEM_20150717_005798	
@@ -5800,24 +5800,24 @@ ITEM_20150717_005799
 ITEM_20150717_005800	
 ITEM_20150717_005801	
 ITEM_20150717_005802	
-ITEM_20150717_005803	
+ITEM_20150717_005803	Old Oilsack
 ITEM_20150717_005804	
-ITEM_20150717_005805	
-ITEM_20150717_005806	
-ITEM_20150717_005807	
-ITEM_20150717_005808	
-ITEM_20150717_005809	
-ITEM_20150717_005810	
-ITEM_20150717_005811	
+ITEM_20150717_005805	Detector Component
+ITEM_20150717_005806	Part of the Petrified Detector
+ITEM_20150717_005807	Braid
+ITEM_20150717_005808	Braid firmly fixed to a part
+ITEM_20150717_005809	Poisonous Plant
+ITEM_20150717_005810	Poisonous Plant known to take all life. 
+ITEM_20150717_005811	Terminal nucleus
 ITEM_20150717_005812	
 ITEM_20150717_005813	
 ITEM_20150717_005814	
 ITEM_20150717_005815	
-ITEM_20150717_005816	
-ITEM_20150717_005817	
+ITEM_20150717_005816	A solid core of petrified monster
+ITEM_20150717_005817	A hard nucleus from a petrified monster.
 ITEM_20150717_005818	
-ITEM_20150717_005819	
-ITEM_20150717_005820	
+ITEM_20150717_005819	Detonator
+ITEM_20150717_005820	Amplifies and overloads the detonator's magic.
 ITEM_20150717_005821	
 ITEM_20150717_005822	
 ITEM_20150717_005823	
@@ -5832,7 +5832,7 @@ ITEM_20150729_005831
 ITEM_20150729_005832	
 ITEM_20150729_005833	
 ITEM_20150729_005834	
-ITEM_20150729_005835	
+ITEM_20150729_005835	Used to be given to magicians who enlisted to the army. There is an abundant supply after Medis Diena. 
 ITEM_20150729_005836	
 ITEM_20150729_005837	
 ITEM_20150729_005838	
@@ -5847,12 +5847,12 @@ ITEM_20150729_005846
 ITEM_20150729_005847	
 ITEM_20150729_005848	
 ITEM_20150729_005849	
-ITEM_20150729_005850	
+ITEM_20150729_005850	Minotaur Shield
 ITEM_20150729_005851	
 ITEM_20150729_005852	
 ITEM_20150729_005853	
 ITEM_20150729_005854	
-ITEM_20150729_005855	
+ITEM_20150729_005855	Rumor has it that supplies of leather increased after Medis Diena.
 ITEM_20150729_005856	
 ITEM_20150729_005857	
 ITEM_20150729_005858	
@@ -5864,15 +5864,15 @@ ITEM_20150729_005863
 ITEM_20150729_005864	
 ITEM_20150729_005865	
 ITEM_20150729_005866	
-ITEM_20150729_005867	
+ITEM_20150729_005867	Add 2814 EXP and 2166 Class EXP. {nl}Chance of receiving additional EXP. {nl}Right-click to use. 
 ITEM_20150729_005868	
 ITEM_20150729_005869	
-ITEM_20150729_005870	
+ITEM_20150729_005870	Deathweaver Card
 ITEM_20150729_005871	
 ITEM_20150729_005872	
 ITEM_20150729_005873	
-ITEM_20150729_005874	
-ITEM_20150729_005875	
+ITEM_20150729_005874	Small Demon Horn
+ITEM_20150729_005875	It will be a useful material if you can purify the evil force. 
 ITEM_20150729_005876	
 ITEM_20150729_005877	
 ITEM_20150729_005878	
@@ -5900,7 +5900,7 @@ ITEM_20150729_005899
 ITEM_20150729_005900	
 ITEM_20150729_005901	
 ITEM_20150729_005902	
-ITEM_20150729_005903		Flower Alcohol of Doyor
+ITEM_20150729_005903	
 ITEM_20150729_005904	
 ITEM_20150729_005905	
 ITEM_20150729_005906	
@@ -5916,7 +5916,84 @@ ITEM_20150729_005915
 ITEM_20150729_005916	
 ITEM_20150729_005917	
 ITEM_20150729_005918	
-ITEM_20150730_005919	
-ITEM_20150730_005920	
-ITEM_20150730_005921	
-ITEM_20150730_005922	
+ITEM_20150730_005919	Dio Two-Hand Sword
+ITEM_20150730_005920	Dio Crossbow
+ITEM_20150730_005921	Tresh Spear
+ITEM_20150730_005922	Sestas Pike
+ITEM_20150803_005923	Krausas Mace
+ITEM_20150803_005924	
+ITEM_20150803_005925	
+ITEM_20150803_005926	Restores 30 stamina. {nl}Right-click to use. Cooldown 30 seconds. 
+ITEM_20150803_005927	
+ITEM_20150803_005928	
+ITEM_20150803_005929	
+ITEM_20150803_005930	
+ITEM_20150803_005931	
+ITEM_20150803_005932	
+ITEM_20150803_005933	
+ITEM_20150803_005934	
+ITEM_20150803_005935	
+ITEM_20150803_005936	
+ITEM_20150803_005937	
+ITEM_20150803_005938	
+ITEM_20150803_005939	
+ITEM_20150803_005940	
+ITEM_20150803_005941	
+ITEM_20150803_005942	
+ITEM_20150803_005943	
+ITEM_20150803_005944	
+ITEM_20150803_005945	
+ITEM_20150803_005946	
+ITEM_20150803_005947	
+ITEM_20150803_005948	
+ITEM_20150803_005949	
+ITEM_20150803_005950	
+ITEM_20150803_005951	
+ITEM_20150803_005952	
+ITEM_20150803_005953	
+ITEM_20150803_005954	
+ITEM_20150803_005955	
+ITEM_20150803_005956	
+ITEM_20150803_005957	
+ITEM_20150803_005958	
+ITEM_20150803_005959	
+ITEM_20150803_005960	
+ITEM_20150803_005961	
+ITEM_20150803_005962	
+ITEM_20150803_005963	
+ITEM_20150803_005964	
+ITEM_20150803_005965	
+ITEM_20150803_005966	
+ITEM_20150803_005967	
+ITEM_20150803_005968	
+ITEM_20150803_005969	
+ITEM_20150803_005970	
+ITEM_20150803_005971	
+ITEM_20150803_005972	
+ITEM_20150803_005973	
+ITEM_20150803_005974	
+ITEM_20150803_005975	
+ITEM_20150803_005976	
+ITEM_20150803_005977	
+ITEM_20150803_005978	
+ITEM_20150803_005979	
+ITEM_20150803_005980	
+ITEM_20150803_005981	
+ITEM_20150803_005982	
+ITEM_20150803_005983	
+ITEM_20150803_005984	
+ITEM_20150803_005985	
+ITEM_20150803_005986	
+ITEM_20150803_005987	
+ITEM_20150804_005988	Helps build your muscular strength.
+ITEM_20150804_005989	
+ITEM_20150804_005990	
+ITEM_20150804_005991	
+ITEM_20150804_005992	
+ITEM_20150804_005993	
+ITEM_20150804_005994	
+ITEM_20150804_005995	
+ITEM_20150804_005996	
+ITEM_20150804_005997	
+ITEM_20150804_005998	
+ITEM_20150804_005999	
