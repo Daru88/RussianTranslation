@@ -297,107 +297,107 @@ UI_20150317_000296	Keyboard Warrior
 UI_20150317_000297	Kill
 UI_20150317_000298	99 minutes 99 seconds
 UI_20150317_000299	38000 points
-UI_20150317_000300	Enhanced Speed Potion
-UI_20150317_000301	{@st41}OK {/}
-UI_20150317_000302	{@st59b} Adventure Journal {nl}{@st59s}- Game progress is recorded in Adventure Journal {nl} - Get Adventure Index through items, monsters, crafting, map navigation, game progress {nl}    Adventure Index : Sum of all indices {nl}    Character : 5 points per level and class level {nl}    Item : Equipment: Level X 10 points, Book : 10 points, Others : 1 point {nl}    Monster : 10 points per monster (Boss: 50 points) {nl}    Map : 1 point per 10% {nl}    Quest: 1 point per quest {nl}    Achievement: Varies by achievement {nl}    Crafting : 10 points {nl}    Collection : Deck 5 points, 45 points when complete {nl} - Receive rewards from town NPC depending on the Adventure Index {/}
-UI_20150317_000303	{@sti7}{s22}{ds}Achievements{/}
-UI_20150317_000304	{@st42b}{#22FF22} Top 10% / %s Points{/}
-UI_20150317_000305	{@st42b} Average / %s Points {/}
-UI_20150317_000306	1st / %s Points
-UI_20150317_000307	Rank %s
-UI_20150317_000308	%s Points
-UI_20150317_000309	Profession
-UI_20150317_000310	Team
-UI_20150317_000311	{@st59}Close Adventure Journal{/}
-UI_20150317_000312	{@st43}Adventure Journal Ranking{/}
-UI_20150317_000313	{@st43}{s22}Rank   
-UI_20150317_000314	{@st43}{s22}Name
-UI_20150317_000315	{@st43}{s22}Score
-UI_20150317_000316	{@st41}Details{/}
-UI_20150317_000317	{@st43}Start Crafting{/}
-UI_20150317_000318	{@st59}Start item crafting.{/}
-UI_20150317_000319	{@st44}Keypad{/}
-UI_20150317_000320	{@st42}Time limit
-UI_20150317_000321	{@st56}Kill{/}
-UI_20150317_000322	{@st56}Overkill{/}
-UI_20150317_000323	{@st56}Shot{/}
-UI_20150317_000324	{@st56}Dead{/}
-UI_20150317_000325	Spell Power
-UI_20150317_000326	Defense
-UI_20150317_000327	Magic Resistance
-UI_20150317_000328	Critical Rate
-UI_20150317_000329	{@st43}Sockets{/}
-UI_20150317_000330	{@st59}Close the Socket Management{/}
-UI_20150317_000331	Please insert your items
-UI_20150317_000332	Potential
-UI_20150317_000333	Additional socket cost : {#ff9933}%s{/}{nl}Gem extraction cost : {#ff9933}%s{/}
-UI_20150317_000334	{@st41b}Add Socket
-UI_20150317_000335	{@st41b}Extract Gem
-UI_20150317_000336	{@st41}Craft{/}
-UI_20150317_000337	{@st41}%s %s ea
-UI_20150317_000338	Area Map
-UI_20150317_000339	Area Explored : 95.5%
-UI_20150317_000340	{@st45tw}Area Explored %s% {/}
-UI_20150317_000341	{@st59}Close the map (M){/}
-UI_20150317_000342	{@st41}Map{/}
-UI_20150317_000343	Shift(clear), Ctrl(mid fill)
-UI_20150317_000344	{ol}Title
-UI_20150317_000345	{@st41}Add{/}
-UI_20150317_000346	{@st41}Delete{/}
-UI_20150317_000347	{@st41}Save{/}
-UI_20150317_000348	{@st41}Auto{/}
-UI_20150317_000349	{@st41}Reset{/}
-UI_20150317_000350	{@st59}Set quantity.{/}
-UI_20150317_000351	{ol}Group
-UI_20150317_000352	{ol}Message
-UI_20150317_000353	{ol}Sound
-UI_20150317_000354	{@st41}Create Minimap{/}
-UI_20150317_000355	{@st55}Area Map
-UI_20150317_000356	{@st43}{s22}Market{/}
-UI_20150317_000357	{@st43}{s24}Market{/}
-UI_20150317_000358	{@st42b}Group{/}
-UI_20150317_000359	{@st42b}Type{/}
-UI_20150317_000360	{@st42b}Req. Level{/}
-UI_20150317_000361	{@st42b}Enhanced level{/}
-UI_20150317_000362	{@st42b}Name
-UI_20150317_000363	{@st41b}Item Cabinet%s
-UI_20150317_000364	{@st41b}Sell
-UI_20150317_000365	{@st41b}Search
-UI_20150317_000366	{@st59}Close the Market window{/}
-UI_20150317_000367	{@st42b} Show order
-UI_20150317_000368	{@st41b}Items for Sale
-UI_20150317_000369	{@st43}{s22}Item Cabinet
-UI_20150317_000370	{@st41b}Receive all
-UI_20150317_000371	{@st41b} Receive
-UI_20150317_000372	{@st43}{s22}Sell
-UI_20150317_000373	{@st42b}Quantity
-UI_20150317_000374	{@st42b}Price
-UI_20150317_000375	{@st42b}Hide seller's name{/}
-UI_20150317_000376	{@st41b}Register
-UI_20150317_000377	Siege Coin
-UI_20150317_000378	Someone killed someone
-UI_20150317_000379	{@st43}Minigames{/}
-UI_20150317_000380	{@st49}Fire Catapult{/}
-UI_20150317_000381	{@st44}Control directions{/}
-UI_20150317_000382	{@st44}Fire{/}
-UI_20150317_000383	Minigame
-UI_20150317_000384	{s18}{ol}{gr gradation1}Hide and seek minigame{/}
-UI_20150317_000385	{s16}Would you like to join the mini-game?
-UI_20150317_000386	{s16}Participants : (0/5)
-UI_20150317_000387	{s16}Participants : (%s /%s)
-UI_20150317_000388	{s16}The game starts after 1 second.
-UI_20150317_000389	{s16}The game starts after %s seconds.
-UI_20150317_000390	{@st59}Zoom in{/}
-UI_20150317_000391	{@st59}Zoom out{/}
-UI_20150317_000392	{@st59}Map (M){/}
-UI_20150317_000393	{@st42b} Area Map
-UI_20150317_000394	{@st44}Item Synthesizer{/}
-UI_20150317_000395	{s16}{#FFcc66}{ol}Please select the item you want to create{/}{/}
-UI_20150317_000396	{s16}{#FFcc66}{ol}Drag the ingredients to the slots
-UI_20150317_000397	{@st42}Create{/}
-UI_20150317_000398	{@st42} Cancel {/}
-UI_20150317_000399	Information of %s
-UI_20150317_000400	Kepa or ...
+UI_20150317_000300	Улучшенное зелье скорости
+UI_20150317_000301	{@st41}ОК {/}
+UI_20150317_000302	{@st59b} Журнал приключений {nl}{@st59s}- Game progress is recorded in Adventure Journal {nl} - Get Adventure Index through items, monsters, crafting, map navigation, game progress {nl}    Adventure Index : Sum of all indices {nl}    Character : 5 points per level and class level {nl}    Item : Equipment: Level X 10 points, Book : 10 points, Others : 1 point {nl}    Monster : 10 points per monster (Boss: 50 points) {nl}    Map : 1 point per 10% {nl}    Quest: 1 point per quest {nl}    Achievement: Varies by achievement {nl}    Crafting : 10 points {nl}    Collection : Deck 5 points, 45 points when complete {nl} - Receive rewards from town NPC depending on the Adventure Index {/}
+UI_20150317_000303	{@sti7}{s22}{ds}Достижения{/}
+UI_20150317_000304	{@st42b}{#22FF22} Топ 10% / %s Очки{/}
+UI_20150317_000305	{@st42b} Средние / %s Очки {/}
+UI_20150317_000306	1-ый / %s Очки
+UI_20150317_000307	Ранг %s
+UI_20150317_000308	%s Очки
+UI_20150317_000309	Профессия
+UI_20150317_000310	Команда
+UI_20150317_000311	{@st59}Закрыть Журнал приключений{/}
+UI_20150317_000312	{@st43}Рейтинг Журнала приключений{/}
+UI_20150317_000313	{@st43}{s22}Ранг   
+UI_20150317_000314	{@st43}{s22}Имя
+UI_20150317_000315	{@st43}{s22}Счёт
+UI_20150317_000316	{@st41}Детали{/}
+UI_20150317_000317	{@st43}Начать создание{/}
+UI_20150317_000318	{@st59}Начать создание предмета.{/}
+UI_20150317_000319	{@st44}Клавиатура{/}
+UI_20150317_000320	{@st42}Временное ограничение
+UI_20150317_000321	{@st56}Убийство{/}
+UI_20150317_000322	{@st56}Многократное уничтожение{/}
+UI_20150317_000323	{@st56}Выстрел{/}
+UI_20150317_000324	{@st56}Смерть{/}
+UI_20150317_000325	Сила заклинания
+UI_20150317_000326	Защита
+UI_20150317_000327	Магическая защита
+UI_20150317_000328	Шанс критического попадания
+UI_20150317_000329	{@st43}Слоты{/}
+UI_20150317_000330	{@st59}Закрыть меню слотов{/}
+UI_20150317_000331	Пожалуйста поместите ваши предметы
+UI_20150317_000332	Потенциал
+UI_20150317_000333	Цена еще одного слота : {#ff9933}%s{/}{nl}Цена извлечения камня : {#ff9933}%s{/}
+UI_20150317_000334	{@st41b}Добавить слот
+UI_20150317_000335	{@st41b}Извлечь камень
+UI_20150317_000336	{@st41}Создание{/}
+UI_20150317_000337	{@st41}%s %s кол-во
+UI_20150317_000338	Карта местности
+UI_20150317_000339	Карта исследована : 95.5%
+UI_20150317_000340	{@st45tw}Карта исследована %s% {/}
+UI_20150317_000341	{@st59}Закрыть карту мира (M){/}
+UI_20150317_000342	{@st41}Карта{/}
+UI_20150317_000343	Шифт(clear), Ктрл(mid fill)
+UI_20150317_000344	{ol}Заголовок
+UI_20150317_000345	{@st41}Добавить{/}
+UI_20150317_000346	{@st41}Удалить{/}
+UI_20150317_000347	{@st41}Сохраниить{/}
+UI_20150317_000348	{@st41}Автоматически{/}
+UI_20150317_000349	{@st41}Сбросить{/}
+UI_20150317_000350	{@st59}Установить число.{/}
+UI_20150317_000351	{ol}Группа
+UI_20150317_000352	{ol}Сообщение
+UI_20150317_000353	{ol}Звук
+UI_20150317_000354	{@st41}Создать миникарту{/}
+UI_20150317_000355	{@st55}Карта местности
+UI_20150317_000356	{@st43}{s22}Магазин{/}
+UI_20150317_000357	{@st43}{s24}Рынок{/}
+UI_20150317_000358	{@st42b}Группа{/}
+UI_20150317_000359	{@st42b}Тип{/}
+UI_20150317_000360	{@st42b}Треб. уровень{/}
+UI_20150317_000361	{@st42b}Уровень улучшения{/}
+UI_20150317_000362	{@st42b}Имя
+UI_20150317_000363	{@st41b}Управление предметами%s
+UI_20150317_000364	{@st41b}Подать
+UI_20150317_000365	{@st41b}Поиск
+UI_20150317_000366	{@st59}Закрыть меню аукиона{/}
+UI_20150317_000367	{@st42b} Показать по порядку
+UI_20150317_000368	{@st41b}Предметы на продажу
+UI_20150317_000369	{@st43}{s22}Меню предметов
+UI_20150317_000370	{@st41b}Получить всё
+UI_20150317_000371	{@st41b} Получить
+UI_20150317_000372	{@st43}{s22}Продать
+UI_20150317_000373	{@st42b}Количество
+UI_20150317_000374	{@st42b}Цена
+UI_20150317_000375	{@st42b}Спрятать имя продавца{/}
+UI_20150317_000376	{@st41b}Зарегестрировать
+UI_20150317_000377	Валюта осады
+UI_20150317_000378	Кто-то убил кого-то
+UI_20150317_000379	{@st43}Мини-игры{/}
+UI_20150317_000380	{@st49}Огненная катапульта{/}
+UI_20150317_000381	{@st44}Контроль направления{/}
+UI_20150317_000382	{@st44}Огонь{/}
+UI_20150317_000383	Мини-игры
+UI_20150317_000384	{s18}{ol}{gr gradation1}Спрятать и искать мини-игры{/}
+UI_20150317_000385	{s16}Хотите ли вы присоеденится к мини-игре?
+UI_20150317_000386	{s16}Участники : (0/5)
+UI_20150317_000387	{s16}Участники : (%s /%s)
+UI_20150317_000388	{s16}Игра начнётся через 1 секунду.
+UI_20150317_000389	{s16}Игра начнётся через %s секунд.
+UI_20150317_000390	{@st59}Приблизить{/}
+UI_20150317_000391	{@st59}Отдалить{/}
+UI_20150317_000392	{@st59}Карта (M){/}
+UI_20150317_000393	{@st42b} Карта местности
+UI_20150317_000394	{@st44}Синтезатор предметов{/}
+UI_20150317_000395	{s16}{#FFcc66}{ol}Пожалуйста выберите предмет который хотите создать{/}
+UI_20150317_000396	{s16}{#FFcc66}{ol}Переместите предметы в слоты
+UI_20150317_000397	{@st42}Создать{/}
+UI_20150317_000398	{@st42} Отменить {/}
+UI_20150317_000399	IИнформация о %s
+UI_20150317_000400	Kepa или ...
 UI_20150317_000401	{@st41}{Details}
 UI_20150317_000402	{s20}{#050505}Monster Description Monster Description Monster Description Monster Description
 UI_20150317_000403	{@st41} Kill {/}
